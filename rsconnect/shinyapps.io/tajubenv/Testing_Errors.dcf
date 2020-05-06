@@ -1,0 +1,12 @@
+name: Testing_Errors
+title: Testing_Errors
+username:
+account: tajubenv
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2249539
+bundleId: 3109100
+url: https://tajubenv.shinyapps.io/Testing_Errors/
+when: 1588734902.09869
+asMultiple: FALSE
+asStatic: FALSE
